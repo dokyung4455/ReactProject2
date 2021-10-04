@@ -1,0 +1,16 @@
+div.add_input {
+}
+div.add_input input {
+  margin: 10px 10px;
+}
+button.btn_input {
+  height: 4vh;
+  margin: 10px 10px;
+  border-radius: 50%;
+  background-color: grey;
+  color: white;
+}
+button.btn_input:hover {
+  cursor: pointer;
+  background-color: rgba(128, 128, 128, 0.548);
+}
